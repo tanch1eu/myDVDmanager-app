@@ -1,0 +1,13 @@
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\bin\Debug\netcoreapp3.1\MyDVDManagerApp.exe
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\bin\Debug\netcoreapp3.1\MyDVDManagerApp.deps.json
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\bin\Debug\netcoreapp3.1\MyDVDManagerApp.runtimeconfig.json
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\bin\Debug\netcoreapp3.1\MyDVDManagerApp.runtimeconfig.dev.json
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\bin\Debug\netcoreapp3.1\MyDVDManagerApp.dll
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\bin\Debug\netcoreapp3.1\MyDVDManagerApp.pdb
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.AssemblyInfoInputs.cache
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.AssemblyInfo.cs
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.dll
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.pdb
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.genruntimeconfig.cache
+C:\Users\dchie\Documents\1. MIT 2020\1. SEM1-2021\IFN 664 - Advanced Algorithms and Computational Complexity\Ass1\MyDVDManagerApp\MyDVDManagerApp\obj\Debug\netcoreapp3.1\MyDVDManagerApp.csprojAssemblyReference.cache
